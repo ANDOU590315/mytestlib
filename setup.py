@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='mytestlibrary1990',
+    name='mytestlib',
     version='1.0.0',
     #url='https://pypi.org/',
     author='AA',
